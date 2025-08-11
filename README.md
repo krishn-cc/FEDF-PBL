@@ -1,16 +1,28 @@
-# 🎮 ArcadeLearn: Your Path to a Tech Career 🚀
+<!-- Banner Image -->
+<p align="center">
+  <img src="banner1.png" alt="ArcadeLearn Banner" width="100%">
+</p>
 
-> **ArcadeLearn** is an innovative platform transforming tech education through **structured learning paths**, **gamified engagement**, and **career-focused insights** — guiding learners from foundational skills to landing their dream job.
+<h1 align="center">🎮 ArcadeLearn: Your Path to a Tech Career 🚀</h1>
+<p align="center">
+  Transforming tech education with structured roadmaps, gamification, and career-focused insights.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+</p>
 
 ---
 
-## 📖 **Project Overview**
-ArcadeLearn revolutionizes the learning experience by turning a fragmented, overwhelming journey into an **engaging and rewarding adventure**.  
-Our platform bridges the gap between **"learning concepts"** and **"career readiness"** with clear roadmaps, motivating rewards, and direct mentor support.
+## 📖 Overview
+**ArcadeLearn** is an innovative platform designed to guide learners from **foundational knowledge** to **career success**.  
+We turn scattered tutorials and confusing tools into **clear, engaging, and gamified learning journeys**.
 
 ---
 
-## 👥 **Team Members**
+## 👥 Team Members
 | Roll No.     | Name        |
 |--------------|-------------|
 | 2410030001    | Harshitha    |
@@ -22,33 +34,35 @@ Our platform bridges the gap between **"learning concepts"** and **"career readi
 
 ---
 
-## ❌ **The Problem**: Navigating a Fragmented Learning Landscape
-In today's fast-paced tech industry, learners face:
+## ❌ The Problem
+In today’s fast-paced tech world, learners face:
 - **Fragmented Learning** – Disconnected tutorials and unlinked resources.
-- **Lack of Direction** – No clear sequence of "what to learn next."
-- **Demotivation** – No tangible progress tracking or goal-setting.
+- **Lack of Direction** – No guidance on “what to learn next.”
+- **Demotivation** – No clear progress tracking or tangible rewards.
 
 ---
 
-## 💡 **The Solution**: A Structured, Gamified Learning Journey
-ArcadeLearn offers:
-- **Structured Roadmaps** 📍 – Step-by-step guides for various tech domains.
-- **Gamified Engagement** 🏆 – XP points, badges, and streaks for motivation.
-- **Career Alignment** 💼 – Salary insights tied to learning paths.
-- **Expert Support** 👩‍🏫 – Direct mentor access for doubt-solving.
+## 💡 Our Solution
+ArcadeLearn bridges the gap with:
+- 📍 **Structured Roadmaps** – Step-by-step guides for tech domains.
+- 🏆 **Gamification** – XP points, badges, and streak rewards.
+- 💼 **Career Alignment** – Salary insights for each learning path.
+- 👩‍🏫 **Expert Support** – Weekly live mentor sessions.
 
 ---
 
-## ✨ **Key Features**
-- **🎯 Curated Learning Paths** – Tracks for DSA, AI/ML, Data Science, Web Development.
-- **🏅 Engaging Gamification** – XP, achievement badges, and streak tracking.
-- **📊 Personalized Dashboard** – Visualize progress and milestones.
-- **🗣 Premium Doubt Sessions** – Weekly live Q&A with expert tutors.
-- **💰 Realistic Salary Insights** – Learn with a vision of future earnings.
+## ✨ Key Features
+| Feature | Description |
+|---------|-------------|
+| **🎯 Curated Learning Paths** | Tracks for DSA, AI/ML, Data Science, Web Development. |
+| **🏅 Gamified Engagement** | XP points, achievements, streak rewards. |
+| **📊 Personalized Dashboard** | Track milestones and progress visually. |
+| **🗣 Live Doubt Sessions** | Weekly interactive expert sessions. |
+| **💰 Salary Insights** | Real-world salary data linked to paths. |
 
 ---
 
-## 🛠 **Tech Stack**
+## 🛠 Tech Stack
 | Area       | Technology |
 |------------|------------|
 | **Frontend** | React + Vite |
@@ -57,27 +71,29 @@ ArcadeLearn offers:
 
 ---
 
-## 🔄 **How It Works**
-1. **Choose Your Path** – Select a career-focused roadmap.
-2. **Learn & Progress** – Complete lessons and challenges.
-3. **Earn Rewards** – Gain XP, badges, and streaks.
-4. **Track Progress** – Monitor milestones via your dashboard.
-5. **Get Support** – Join live doubt-clearing sessions.
-6. **Visualize Career** – View salary insights for your chosen field.
+## 🔄 How It Works
+1. **Choose Your Path** → Select a career-focused roadmap.
+2. **Learn & Progress** → Complete modules and challenges.
+3. **Earn Rewards** → Gain XP, badges, and streak bonuses.
+4. **Track Progress** → Monitor goals in your dashboard.
+5. **Get Support** → Join live expert sessions.
+6. **Visualize Career** → Explore salary ranges for your path.
 
 ---
 
-## 📈 **Expected Outcomes**
-- **30% Higher Completion Rates** – Thanks to motivation-focused features.
-- **Greater Engagement** – Gamified rewards keep learners active.
-- **Clear Career Direction** – Salary-informed paths provide guidance.
-- **Better Learning Decisions** – Linking knowledge to career goals.
+## 📈 Expected Outcomes
+- 📈 **+30% Completion Rates** through motivation-focused features.
+- 🎯 **Higher Engagement** with gamification and rewards.
+- 🛤 **Clear Career Paths** linked to real-world opportunities.
+- 📚 **Informed Decisions** connecting learning to job prospects.
 
 ---
 
-## 🚀 **Future Plans**
-- 📱 **Mobile App** – Learn anytime, anywhere.
-- 👥 **Peer Forums** – Connect and learn with fellow students.
-- 🎓 **Mentor Dashboards** – Tools for tracking and guiding mentees.
-- 💼 **Job Links** – Direct transitions from learning to employment.
+## 🚀 Future Plans
+- 📱 Mobile App for learning on-the-go.
+- 👥 Peer Forums for collaboration & networking.
+- 🎓 Mentor Dashboards for better guidance.
+- 💼 Direct Job Links for seamless employment transition.
+
+---
 
