@@ -13,7 +13,7 @@ Our platform bridges the gap between **"learning concepts"** and **"career readi
 ## 👥 **Team Members**
 | Roll No.     | Name        |
 |--------------|-------------|
-| 241003001    | Harshita    |
+| 241003001    | Harshitha    |
 | 2410030021   | Dwarkesh    |
 | 2410030023   | Bee Shiva   |
 | 2410030059   | Jahnavi     |
@@ -81,16 +81,3 @@ ArcadeLearn offers:
 - 🎓 **Mentor Dashboards** – Tools for tracking and guiding mentees.
 - 💼 **Job Links** – Direct transitions from learning to employment.
 
----
-
-## 📌 **Contributions**
-We welcome contributions! Feel free to fork the repository, raise issues, and submit pull requests.
-
----
-
-## 📜 **License**
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-> “Learning should be as exciting as playing a game — with goals, rewards, and a path to victory. That’s what ArcadeLearn delivers.”
