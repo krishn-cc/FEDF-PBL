@@ -13,7 +13,7 @@ Our platform bridges the gap between **"learning concepts"** and **"career readi
 ## 👥 **Team Members**
 | Roll No.     | Name        |
 |--------------|-------------|
-| 241003001    | Harshitha    |
+| 2410030001    | Harshitha    |
 | 2410030021   | Dwarkesh    |
 | 2410030023   | Bee Shiva   |
 | 2410030059   | Jahnavi     |
