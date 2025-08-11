@@ -25,7 +25,7 @@ We turn scattered tutorials and confusing tools into **clear, engaging, and gami
 ## 👥 Team Members
 | Roll No.     | Name        |
 |--------------|-------------|
-| 2410030001    | Harshitha    |
+| 2410030001    | Harshitha Reddy   |
 | 2410030021   | Dwarkesh    |
 | 2410030023   | Bee Shiva   |
 | 2410030059   | Jahnavi     |
