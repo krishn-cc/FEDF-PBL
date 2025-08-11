@@ -18,7 +18,7 @@ Our platform bridges the gap between **"learning concepts"** and **"career readi
 | 2410030023   | Bee Shiva   |
 | 2410030059   | Jahnavi     |
 | 2410030110   | Smruti      |
-| 24100300111  | Nicky       |
+| 2410030111  | Nicky       |
 
 ---
 
